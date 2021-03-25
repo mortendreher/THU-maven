@@ -9,7 +9,7 @@ public class GoodbyeTest {
 	@Test
 	public void test() {
 		Goodbye goodbye = new Goodbye();
-		assert (goodbye.isAlive());
+		assert(goodbye.isAlive());
 
 	}
 }
